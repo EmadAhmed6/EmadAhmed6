@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Emad, a front-end developer with (React | Next)
 
 <!--
 **EmadAhmed6/EmadAhmed6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
