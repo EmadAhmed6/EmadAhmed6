@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl5N3pseHh1bTg5enlqeTl6aTdzcjE0bmdqeGpqdm9uY213cDJzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emadahmed6&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 <h1 align="center">Hey, I'm Emad</h1>
 <h3 align="center">Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 
@@ -20,11 +25,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **SecureMail**
-- 🌱 Learning and mastering **Next.js & Advanced Frontend Patterns**
-- 💡 Passionate about UI/UX, animations, and performance optimization
-- 🎯 Focused on building scalable, clean, and user-centered interfaces
-- 📍 Based in Egypt
+- 🔭 Currently building **SecureMail**  
+- 🌱 Learning and mastering **Next.js & Advanced Frontend Patterns**  
+- 💡 Passionate about UI/UX, animations, and performance optimization  
+- 🎯 Focused on building scalable, clean, and user-centered interfaces  
+- 📍 Based in Egypt  
 
 ---
 
@@ -32,7 +37,7 @@
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
@@ -45,6 +50,11 @@
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
 ![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
+
+### 🛠 GitHub Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions)
+![Dependabot](https://img.shields.io/badge/Dependabot-111?style=for-the-badge&logo=dependabot)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-111?style=for-the-badge&logo=github)
 
 ---
 
