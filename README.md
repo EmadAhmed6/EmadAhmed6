@@ -39,7 +39,7 @@
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
