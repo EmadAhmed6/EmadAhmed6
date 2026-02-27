@@ -1,24 +1,81 @@
-<h1 align="center">Hey, I'm Emad</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Emad</h1>
+<h3 align="center">Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emadahmed6&label=Profile%20views&color=0e75b6&style=flat" alt="emadahmed6" /> </p>
-
-- 🔭 I’m currently working on **SecureMail**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://emad-site.vercel.app/](https://emad-site.vercel.app/)
-
-- 💬 Ask me about **JavaScript, TypeScript, React, Next**
-
-- 📫 How to reach me **emadahmeddev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emadahmed6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emadahmed6" height="30" width="40" /></a>
-<a href="https://fb.com/emadahmed6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emadahmed6" height="30" width="40" /></a>
-<a href="https://instagram.com/emad_v8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emad_v8" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://emad-site.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="mailto:emadahmeddev@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-000?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/emadahmed6">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **SecureMail**
+- 🌱 Learning and mastering **Next.js & Advanced Frontend Patterns**
+- 💡 Passionate about UI/UX, animations, and performance optimization
+- 🎯 Focused on building scalable, clean, and user-centered interfaces
+- 📍 Based in Egypt
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-111?style=for-the-badge&logo=sass)
+![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-111?style=for-the-badge&logo=framer)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
+
+---
+
+## 🎨 What I Love Building
+
+✨ Modern & Responsive Websites  
+✨ Smooth Animations & Micro-interactions  
+✨ Clean UI with Scalable Architecture  
+✨ Performance-Optimized Applications  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emadahmed6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emadahmed6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/emadahmed6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/emad_v8">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://fb.com/emadahmed6">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ "Code is not just syntax — it's an experience."
