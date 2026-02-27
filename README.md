@@ -31,14 +31,15 @@
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/Sass-111?style=for-the-badge&logo=sass)
-![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-111?style=for-the-badge&logo=framer)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React%20Query-111?style=for-the-badge&logo=reactquery)
+![Zustand](https://img.shields.io/badge/Zustand-111?style=for-the-badge)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
