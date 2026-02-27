@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xxxxx/giphy.gif" width="400" />
+  <img src="https://tenor.com/search/programmer-gifs" width="400" />
 </p>
 <h1 align="center">Hi 👋, I'm Emad</h1>
 <h3 align="center">Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
