@@ -8,7 +8,7 @@
 
 <h1 align="center">Hey, I'm Emad</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F7FF&center=true&width=400&lines=Frontend;Frontend+Developer;Frontend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F7FF&center=true&width=400&lines=Frontend+Developer;Frontend+Developer;Frontend+Developer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
