@@ -7,7 +7,9 @@
 </p>
 
 <h1 align="center">Hey, I'm Emad</h1>
-<h3 align="center">Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+&+Next.js+Lover" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://emad-site.vercel.app/">
