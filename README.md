@@ -56,11 +56,6 @@
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
 ![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
 
-### 🛠 GitHub Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions)
-![Dependabot](https://img.shields.io/badge/Dependabot-111?style=for-the-badge&logo=dependabot)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-111?style=for-the-badge&logo=github)
-
 ---
 
 ## 🎨 What I Love Building
