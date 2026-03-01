@@ -92,5 +92,4 @@
 </p>
 
 ---
-
-⭐ "Code is not just syntax — it's an experience."
+<p align="center">⭐ "Code is not just syntax — it's an experience."</p>
