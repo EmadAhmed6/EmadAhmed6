@@ -29,7 +29,7 @@
 
 - 🔭 Currently building **SecureMail**  
 - 🌱 Learning and mastering **Next.js & Advanced Frontend Patterns**  
-- 💡 Passionate about UI/UX, animations, and performance optimization  
+- 💡 Passionate about Front-end, animations, and performance optimization  
 - 🎯 Focused on building scalable, clean, and user-centered interfaces  
 - 📍 Based in Egypt
 - 🗣️ Native: Arabic | English: B1
