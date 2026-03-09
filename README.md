@@ -77,7 +77,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Reach me on
 
 <p align="center">
   <a href="https://linkedin.com/in/emadahmed6">
