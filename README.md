@@ -25,20 +25,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently building **SecureMail**  
-- 🌱 Learning and mastering **Next.js & Advanced Frontend Patterns**  
-- 💡 Passionate about Front-end, animations, and performance optimization  
-- 🎯 Focused on building scalable, clean, and user-centered interfaces  
-- 📍 Based in Egypt
-- 🗣️ Native: Arabic | English: B1
+- Currently building **SecureMail**  
+- Learning and mastering **Next.js & Advanced Frontend Patterns**  
+- Passionate about Front-end, animations, and performance optimization  
+- Focused on building scalable, clean, and user-centered interfaces  
+- Based in Egypt
+- Native: Arabic | English: B1
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
@@ -52,23 +52,23 @@
 ![Zustand](https://img.shields.io/badge/Zustand-111?style=for-the-badge)
 
 
-### ⚙️ Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
 ![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
 
 ---
 
-## 🎨 What I Love Building
+## What I Love Building
 
-✨ Modern & Responsive Websites  
-✨ Smooth Animations & Micro-interactions  
-✨ Clean UI with Scalable Architecture  
-✨ Performance-Optimized Applications  
+Modern & Responsive Websites  
+Smooth Animations & Micro-interactions  
+Clean UI with Scalable Architecture  
+Performance-Optimized Applications  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emadahmed6&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -77,7 +77,7 @@
 
 ---
 
-## 🤝 Reach me on
+## Reach me on
 
 <p align="center">
   <a href="https://linkedin.com/in/emadahmed6">
@@ -92,4 +92,4 @@
 </p>
 
 ---
-<p align="center">⭐ "Code is not just syntax — it's an experience."</p>
+<p align="center">Code is not just syntax — it's an experience.</p>
